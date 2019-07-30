@@ -1,6 +1,6 @@
-main: mainPack.main
+main: main.java.me.daddylootly.dangerousnether.main
 name: DangerousNether
-version: 1.0
+version: ${project.version}
 author: DaddyLootly
 description: Expands the nether to be more interesting.
 commands:
